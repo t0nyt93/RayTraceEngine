@@ -1,0 +1,1 @@
+My project can be run by building the cs419_tyrrella_final Visual Studio Solution. My write up is included in the CS419_FINAL_REPORT.pdf and all of the latex source code is in the LatexWriteupSource directory. The solution saves the result as a PNG image and doesn't display it to the screen so you'll have to look for it where it tells you it saved it.
